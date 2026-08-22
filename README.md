@@ -458,6 +458,19 @@ http://59.59.4.22:8090
 
 ---
 
+## 赞助鸣谢
+
+[![IPWO](doc/IPWO.png)](https://www.ipwo.net/?ref=githubpholcus)
+
+
+结合 Pholcus 的高并发、分布式采集能力，[IPWO](https://www.ipwo.net/?ref=githubpholcus) 住宅代理可为不同采集任务提供相应的网络环境支持，适用于需要跨地区访问和多网络环境测试的数据采集任务。
+<br>
+覆盖全球195+地区动静态IP资源，http/https/socks5 协议，支持免费测试入口。<code>90折扣码：0204</code>
+
+👉 [https://www.ipwo.net/?ref=githubpholcus](https://www.ipwo.net/?ref=githubpholcus)
+
+---
+
 ## 参与贡献
 
 欢迎提交 Issue 和 Pull Request！
