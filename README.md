@@ -94,6 +94,18 @@
 
 ---
 
+## 赞助鸣谢
+
+[![IPWO](doc/IPWO.png)](https://www.ipwo.net/?ref=githubpholcus)
+
+
+结合 Pholcus 的高并发、分布式采集能力，[IPWO](https://www.ipwo.net/?ref=githubpholcus) 住宅代理可为不同采集任务提供相应的网络环境支持，适用于需要跨地区访问和多网络环境测试的数据采集任务。
+<br>
+覆盖全球195+地区动静态IP资源，http/https/socks5 协议，支持免费测试入口。<code>90折扣码：0204</code>
+
+👉 [https://www.ipwo.net/?ref=githubpholcus](https://www.ipwo.net/?ref=githubpholcus)
+---
+
 ## 架构设计
 
 <details>
@@ -455,19 +467,6 @@ http://59.59.4.22:8090
 每个 URL 尝试下载指定次数后，若仍失败则进入 defer 队列。当前任务正常结束后自动重试。再次失败则保存至失败历史记录。下次执行同一规则时，可选择继承历史失败记录进行自动重试。
 
 </details>
-
----
-
-## 赞助鸣谢
-
-[![IPWO](doc/IPWO.png)](https://www.ipwo.net/?ref=githubpholcus)
-
-
-结合 Pholcus 的高并发、分布式采集能力，[IPWO](https://www.ipwo.net/?ref=githubpholcus) 住宅代理可为不同采集任务提供相应的网络环境支持，适用于需要跨地区访问和多网络环境测试的数据采集任务。
-<br>
-覆盖全球195+地区动静态IP资源，http/https/socks5 协议，支持免费测试入口。<code>90折扣码：0204</code>
-
-👉 [https://www.ipwo.net/?ref=githubpholcus](https://www.ipwo.net/?ref=githubpholcus)
 
 ---
 
